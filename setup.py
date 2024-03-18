@@ -23,6 +23,6 @@ setup(
     author='Tom Ister',
     author_email='ister.tom@gmail.com',
     packages=find_packages(),
-    install_requires=get_requirements('requiremenst.txt')
+    install_requires=get_requirements('requirements.txt')
 
 )
